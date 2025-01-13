@@ -1,0 +1,22 @@
+﻿  15-1.c
+C:\C언어\15-1\15-1.c(19,9): warning C4477: 'printf' : 서식 문자열 '%12u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\C언어\15-1\15-1.c(19,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+C:\C언어\15-1\15-1.c(20,9): warning C4477: 'printf' : 서식 문자열 '%12u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\C언어\15-1\15-1.c(20,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\C언어\15-1\15-1.c(20,9): warning C4477: 'printf' : 서식 문자열 '%12u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int **'입니다.
+C:\C언어\15-1\15-1.c(20,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int **' 형식의 인수 2과(와) 충돌합니다.
+C:\C언어\15-1\15-1.c(21,9): warning C4477: 'printf' : 서식 문자열 '%12u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+C:\C언어\15-1\15-1.c(21,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int **' 형식의 인수 1과(와) 충돌합니다.
+C:\C언어\15-1\15-1.c(21,9): warning C4477: 'printf' : 서식 문자열 '%12u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int ***'입니다.
+C:\C언어\15-1\15-1.c(21,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int ***' 형식의 인수 2과(와) 충돌합니다.
+C:\C언어\15-1\15-1.c(21,9): warning C4477: 'printf' : 서식 문자열 '%12u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int *'입니다.
+C:\C언어\15-1\15-1.c(21,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 3과(와) 충돌합니다.
+C:\C언어\15-1\15-1.c(39,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\C언어\15-1\15-1.c(39,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\C언어\15-1\15-1.c(40,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int (*)[5]'입니다.
+C:\C언어\15-1\15-1.c(40,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int (*)[5]' 형식의 인수 1과(와) 충돌합니다.
+C:\C언어\15-1\15-1.c(41,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\C언어\15-1\15-1.c(41,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\C언어\15-1\15-1.c(42,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int (*)[5]'입니다.
+C:\C언어\15-1\15-1.c(42,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int (*)[5]' 형식의 인수 1과(와) 충돌합니다.
+  15-1.vcxproj -> C:\C언어\15-1\x64\Debug\15-1.exe
