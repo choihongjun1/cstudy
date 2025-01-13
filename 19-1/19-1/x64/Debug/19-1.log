@@ -1,0 +1,4 @@
+﻿  19-1.c
+/macro.c(123,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+/macro.c(124,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  19-1.vcxproj -> C:\C언어\19-1\x64\Debug\19-1.exe
